@@ -1,5 +1,5 @@
 {
-  "name": "Blue block using react-redux-starter-kit",
+  "name": "react-redux-starter-kit",
   "version": "3.0.0-alpha.3",
   "description": "Get started with React, Redux, and React-Router!",
   "main": "index.js",
@@ -73,7 +73,7 @@
     "type": "git",
     "url": "git+https://github.com/onwarddev/blue-block.git"
   },
-  "author": "Onward Devlopment using David Zukowski's boilerplate",
+  "author": "Onward Development",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.17.0",
